@@ -13,6 +13,7 @@ Education
 ======
 
 2023-2026 Master, Guangdong University of Technology
+
 2019-2023 Undergraduate, Guangdong University of Technology
 
 Publications & Manuscripts
