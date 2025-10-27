@@ -23,6 +23,6 @@ Publications & Manuscripts
 
 2. [Yuan B (Mentor), **Huang X**, et al. Dynamic Behavior and Deformation of Calcareous Sand under Cyclic Loading. Soil Dynamics and Earthquake Engineering, 2025，199：109730.](https://www.sciencedirect.com/science/article/abs/pii/S0267726125005238?getft_integrator=clarivate&pes=vor&utm_source=clarivate)（JCR Q1，if=4.6）
 
-3. [Yuan B, Liang J, **Huang X**, et al. Eco-efficient recycling of engineering muck for manufacturing low￾carbon geopolymers via LCA: Exploring the impact of synthesis conditions on performance. Acta Geotechnica. 2024.](https://link.springer.com/article/10.1007/s11440-024-02395-9?utm_source=getftr&utm_medium=getftr&utm_campaign=getftr_pilot&getft_integrator=clarivate) (JCR Q1, if=5.7, **Awarded theActaGeotechnica BestPaper 2024Certificate**)
+3. [Yuan B, Liang J, **Huang X**, et al. Eco-efficient recycling of engineering muck for manufacturing low carbon geopolymers via LCA: Exploring the impact of synthesis conditions on performance. Acta Geotechnica. 2024.](https://link.springer.com/article/10.1007/s11440-024-02395-9?utm_source=getftr&utm_medium=getftr&utm_campaign=getftr_pilot&getft_integrator=clarivate) (JCR Q1, if=5.7, **Awarded theActaGeotechnica BestPaper 2024Certificate**)
 
 4. Yuan, B, Liang, J, Zhang, B, Chen, W, **Huang, X**, et al. (2025). Optimized reinforcement of granite residual soil using a cement and alkaline solution: A coupling effect. Journal of Rock Mechanics and Geotechnical Engineering, 17(1) (JCR Q1, if=10.2)
